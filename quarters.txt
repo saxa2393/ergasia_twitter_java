@@ -1,0 +1,11 @@
+low border: 0.0
+up border: 116.25
+
+low border: 116.25
+up border: 232.5
+
+low border: 232.5
+up border: 348.75
+
+low border: 348.75
+up border: 465.0
